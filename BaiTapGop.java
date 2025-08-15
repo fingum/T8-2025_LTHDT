@@ -13,15 +13,7 @@ public class BaiTapGop {
 
         System.out.println("------------------------------");
 
-        // --- Bài 2.5: Tính tổng từ 1 đến n ---
-        System.out.print("Nhập n: ");
-        int n = sc.nextInt();
-        int tong = 0;
-        for (int i = 1; i <= n; i++) {
-            tong += i;
-        }
-        System.out.println("Tổng từ 1 đến " + n + " là: " + tong);
-
+      
         sc.close();
     }
 }
