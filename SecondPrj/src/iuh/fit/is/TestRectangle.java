@@ -2,9 +2,9 @@
 /**
  * @description Class TestRectangle is used to test Rectangle class
  * by creating objects and displaying area and perimeter.
- * @author Bui Quang Thuan | 24711531
+ * @author Bui Quang Thuan
  * @version 1.0
- * @created 2025-08-27
+ * @created 2025-08-28
  */
 
 package iuh.fit.is;

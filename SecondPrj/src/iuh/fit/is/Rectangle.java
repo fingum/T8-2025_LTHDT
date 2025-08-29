@@ -1,9 +1,9 @@
 /**
  * @description Class Rectangle represents a rectangle with length and width,
  * provides methods to calculate area and perimeter.
- * @author Bui Quang Thuan | 24711531
+ * @author Bui Quang Thuan
  * @version 1.0
- * @created 2025-08-27
+ * @created 2025-08-28
  */
 
 
